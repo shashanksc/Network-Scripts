@@ -1,3 +1,5 @@
+snmp_lldp_check.py : takes a list of devices as input and checks for SNMP and LLDP on those devices.
+
 mac_find.py : Python script to ping IPs, retrieve their MAC addresses via ARP, and export IP-MAC mapping to text and CSV files. 
   use when mac address needed for a bunch of IP.
   
